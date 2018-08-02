@@ -1,0 +1,4 @@
+this is a flights test plan for AirIndia..
+
+Flights to test: 20000
+Testcases: 20
